@@ -1,6 +1,7 @@
 # Weather App Frontend
 
 Aplicación React que muestra el clima de los últimos 7 días según la ubicación detectada automáticamente.
+![Aplicacion de Clima](https://github.com/user-attachments/assets/7ad2a151-df09-4567-b3ae-1ae271932afa)
 
 ## Tecnologías
 - React

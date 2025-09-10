@@ -1,3 +1,29 @@
+# Weather App Frontend
+
+Aplicación React que muestra el clima de los últimos 7 días según la ubicación detectada automáticamente.
+
+## Tecnologías
+- React
+- TypeScript
+- Bootstrap
+
+## Cómo ejecutar
+1. Instala dependencias con `npm install`
+2. Ejecuta el servidor con `npm start`
+3. Accede a `http://localhost:3000`
+
+## Funcionalidad
+- Detecta ubicación automáticamente
+- Muestra clima de los últimos 7 días
+- Usa `useContext` para estado global
+
+## Estructura
+- `src/components/` — Componentes
+- `src/context/` — Estado global
+- `src/services/` — Consumo de API backend
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
